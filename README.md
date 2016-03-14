@@ -2,6 +2,8 @@
 
 A Test Project of Github Pages
 
+You can view this site at [http://kellygrape.github.io/test-project](http://kellygrape.github.io/test-project)
+
 This repository looks empty, but it has a website associated with it that was generated using the [page generator for GitHub Pages](https://pages.github.com/).  I am utilizing a **Project Site**.
 
 To see the code that is powering this site, you will need to switch branches.
